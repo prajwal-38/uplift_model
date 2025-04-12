@@ -7,3 +7,6 @@ joblib
 shap
 scikit-learn
 lightgbm 
+gunicorn==20.1.0
+flask==2.3.3
+causalml==0.13.0
